@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/CowboyJet/udemy_testing_python_apps.svg?branch=master)](https://app.travis-ci.com/CowboyJet/udemy_testing_python_apps)
+[![Build Status](https://app.travis-ci.com/CowboyJet/udemy_testing_python_apps.svg?branch=main)](https://app.travis-ci.com/CowboyJet/udemy_testing_python_apps)
 
 # Stores REST Api
 
