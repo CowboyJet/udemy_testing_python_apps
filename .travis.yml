@@ -1,0 +1,9 @@
+language: python
+python:
+ - "3.10"
+ - "nightly"
+install:
+ - "pip install pytest"
+ - "pip install -r section7/requirements.txt"
+before_script: cd section7
+script: python -m pytest tests/
